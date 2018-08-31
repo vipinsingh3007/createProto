@@ -1,9 +1,14 @@
 {
   "author": "Vipinkumar Singh",
-  "name": "createProto",
+  "name": "createproto",
   "version": "0.1.1",
   "description": "create a prototype",
-  "main": "createProto",
+  "main": "createproto",
+  "respository": {
+    "type": "git",
+    "url": "https://vipinsingh3007@github.com/vipinsingh3007/createProto.git"
+  },
+  "keywords": ["create", "proto"],
   "dependencies": {},
   "engines": {
     "node": "*"
