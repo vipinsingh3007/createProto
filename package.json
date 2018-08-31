@@ -1,0 +1,11 @@
+{
+  "author": "Vipinkumar Singh",
+  "name": "createProto",
+  "version": "0.1.1",
+  "description": "create a prototype",
+  "main": "createProto",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
